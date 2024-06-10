@@ -1,5 +1,5 @@
 # Steps
-1. Download Docker Desktop form link
+1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop/) from the given link.
 
 2. Create a docker project folder on your PC
 
