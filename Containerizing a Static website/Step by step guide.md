@@ -34,7 +34,7 @@ It will show this because we haven't uploaded any html file on it
 7. In the same fodler create another folder named  'html', and write your html code in it and save it.
 
 8. Now, go back to dockerfile and update it
-```json
+```
 FROM ubuntu:latest
 
 RUN apt-get update && apt-get upgrade -y
