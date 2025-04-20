@@ -5,7 +5,7 @@
 
       In that folder, first create a docker file and write this code
    
-```json
+```
 FROM ubuntu:latest
 
 RUN apt-get update && apt-get upgrade -y
